@@ -523,7 +523,6 @@ TITLES = FIRST_NAME_TITLES | set([
     'right',
     'risk',
     'rock',
-    'royal',
     'rt',
     'sa',
     'sailor',
