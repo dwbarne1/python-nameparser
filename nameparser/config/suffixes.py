@@ -314,6 +314,7 @@ SUFFIX_ACRONYMS = set([
     'dfm',
     'diplac',
     'diplom',
+    'director',
     'djur',
     'dma',
     'dmd',
