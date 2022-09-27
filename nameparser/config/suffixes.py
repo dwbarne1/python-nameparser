@@ -623,6 +623,7 @@ SUFFIX_ACRONYMS = set([
     'shrm-scp',
     'si',
     'siie',
+    'sj',
     'smieee',
     'sphr',
     'sra',
