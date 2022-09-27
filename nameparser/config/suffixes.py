@@ -489,6 +489,7 @@ SUFFIX_ACRONYMS = set([
     'md',
     'mdiv',
     'mem',
+    'member',
     'mfa',
     'micp',
     'mieee',
