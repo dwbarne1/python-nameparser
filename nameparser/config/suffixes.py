@@ -571,6 +571,7 @@ SUFFIX_ACRONYMS = set([
     'pp',
     'pps',
     'pres',
+    'pres/owner',
     'president',
     'principal',
     'prm',
