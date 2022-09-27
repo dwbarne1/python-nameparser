@@ -396,7 +396,7 @@ TITLES = FIRST_NAME_TITLES | set([
     'mcpoc',
     'mcpon',
     #'md',
-    'member',
+    #'member',
     'memoirist',
     'merchant',
     'met',
