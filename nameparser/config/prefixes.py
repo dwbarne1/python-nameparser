@@ -13,7 +13,7 @@ from __future__ import unicode_literals
 PREFIXES = set([
     'abu',
     #'al',
-    'bin',
+    #'bin',
     'bon',
     'da',
     'dal',
