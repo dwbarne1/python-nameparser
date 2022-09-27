@@ -473,6 +473,7 @@ TITLES = FIRST_NAME_TITLES | set([
     'police',
     'political',
     'politician',
+    'preacher',
     'prefect',
     'prelate',
     'premier',
