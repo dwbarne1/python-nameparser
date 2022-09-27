@@ -221,6 +221,7 @@ SUFFIX_ACRONYMS = set([
     'cna',
     'cnm',
     'cnp',
+    'coo',
     'cp',
     'cp-c',
     'cpa',
