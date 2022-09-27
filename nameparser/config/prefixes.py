@@ -45,6 +45,6 @@ PREFIXES = set([
     #'van',
     'vander',
     'vel',
-    'von',
+    #'von',
     'vom',
 ])
