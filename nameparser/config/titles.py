@@ -262,7 +262,6 @@ TITLES = FIRST_NAME_TITLES | set([
     'educator',
     'effendi',
     'ekegbian',
-    'elder',
     'elerunwon',
     'eminence',
     'emperor',
