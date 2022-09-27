@@ -350,6 +350,7 @@ SUFFIX_ACRONYMS = set([
     'erd',
     'esq',
     'evp',
+    'exec vp',
     'faafp',
     'faan',
     'faap',
