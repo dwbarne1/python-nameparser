@@ -36,7 +36,7 @@ PREFIXES = set([
     'ibn',
     'la',
     #'le',
-    'mac',
+    #'mac',
     'mc',
     'san',
     'santa',
