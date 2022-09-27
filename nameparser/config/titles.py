@@ -295,7 +295,7 @@ TITLES = FIRST_NAME_TITLES | set([
     'friar',
     'gaf',
     'gen',
-    'general',
+    #'general',
     'generalissimo',
     'gentiluomo',
     'giani',
