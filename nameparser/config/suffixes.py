@@ -153,6 +153,7 @@ SUFFIX_ACRONYMS = set([
     'cfeds',
     'cfi',
     'cfm',
+    'cfo',
     'cfp',
     'cfps',
     'cfr',
