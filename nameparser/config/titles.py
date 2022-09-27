@@ -340,7 +340,7 @@ TITLES = FIRST_NAME_TITLES | set([
     'jr',
     'judge',
     'judicial',
-    'junior',
+    #'junior',
     'jurist',
     'keyboardist',
     'kingdom',
