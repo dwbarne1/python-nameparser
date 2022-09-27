@@ -467,6 +467,7 @@ SUFFIX_ACRONYMS = set([
     'ma',
     'maaa',
     'mai',
+    'manager',
     'mba',
     'mbe',
     'mbs',
