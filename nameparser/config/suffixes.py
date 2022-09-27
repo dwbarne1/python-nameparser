@@ -605,6 +605,7 @@ SUFFIX_ACRONYMS = set([
     'rdh',
     'rdms',
     'rdn',
+    'rep agent',
     'res',
     'rfp',
     'rhca',
