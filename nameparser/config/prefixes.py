@@ -42,7 +42,7 @@ PREFIXES = set([
     'santa',
     'st',
     'ste',
-    'van',
+    #'van',
     'vander',
     'vel',
     'von',
