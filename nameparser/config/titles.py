@@ -508,7 +508,7 @@ TITLES = FIRST_NAME_TITLES | set([
     'radio',
     'radm',
     'rangatira',
-    'ranger',
+    #'ranger',
     'rdml',
     'rear',
     'rebbe',
