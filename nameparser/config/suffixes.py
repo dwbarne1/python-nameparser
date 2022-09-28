@@ -664,6 +664,7 @@ SUFFIX_ACRONYMS = set([
     'vc',
     'vcp',
     'vd',
+    'vp',
     'vrd',
 ])
 """
