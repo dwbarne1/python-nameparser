@@ -129,7 +129,6 @@ TITLES = FIRST_NAME_TITLES | set([
     'biographer',
     'biologist',
     'bishop',
-    'blessed',
     'blogger',
     'blues',
     'bodhisattva',
