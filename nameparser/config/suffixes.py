@@ -83,6 +83,7 @@ SUFFIX_ACRONYMS = set([
     'bt',
     'btcs',
     'bts',
+    'burgess',
     'cacts',
     'cae',
     'caha',
