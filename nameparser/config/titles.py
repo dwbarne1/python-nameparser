@@ -343,7 +343,6 @@ TITLES = FIRST_NAME_TITLES | set([
     'linguist',
     'literary',
     'lord',
-    'lt',
     'ltc',
     'ltcol',
     'ltg',
